@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1062901748046",
+    "firebase_url": "https://xhat-4f815-default-rtdb.firebaseio.com",
+    "project_id": "xhat-4f815",
+    "storage_bucket": "xhat-4f815.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062901748046:android:2c2934b206675f05bf8e1f",
+        "android_client_info": {
+          "package_name": "com.williamfq.xhat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaThnx7zroO-5lo6dB-CVU8ywV28M0xcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
